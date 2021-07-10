@@ -30,7 +30,7 @@ python3 main.py --batch_size 64 --input_max_length 11 --output_max_length 14
 ## Experiment
 > Pick an image then write something to generate the corresponding meme.
 
-Loading the pretrained model you need to download the file and put it to checkpoint directory
+Loading the pretrained model you need to download the file https://drive.google.com/file/d/1m-vE0hVeTUzQ34y_OxA4UmD3laYsehSx/view?usp=sharing and put it to checkpoint directory
 ```
 cp model.t7 Seq2seq-model-for-Meme-Generator/checkpoint/model.t7
 ```
